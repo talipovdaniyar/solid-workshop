@@ -1,0 +1,13 @@
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\solid-demo.exe
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\solid-demo.deps.json
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\solid-demo.runtimeconfig.json
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\solid-demo.runtimeconfig.dev.json
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\solid-demo.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\solid-demo.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.csproj.AssemblyReference.cache
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.AssemblyInfoInputs.cache
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.AssemblyInfo.cs
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.csproj.CoreCompileInputs.cache
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.genruntimeconfig.cache

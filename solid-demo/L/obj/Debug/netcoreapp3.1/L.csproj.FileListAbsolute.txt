@@ -1,0 +1,8 @@
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\bin\Debug\netcoreapp3.1\L.deps.json
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\bin\Debug\netcoreapp3.1\L.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\bin\Debug\netcoreapp3.1\L.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\obj\Debug\netcoreapp3.1\L.AssemblyInfoInputs.cache
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\obj\Debug\netcoreapp3.1\L.AssemblyInfo.cs
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\obj\Debug\netcoreapp3.1\L.csproj.CoreCompileInputs.cache
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\obj\Debug\netcoreapp3.1\L.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\L\obj\Debug\netcoreapp3.1\L.pdb
