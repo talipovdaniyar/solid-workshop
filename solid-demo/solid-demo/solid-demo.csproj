@@ -1,9 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>solid_demo</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\D\D.csproj" />
+    <ProjectReference Include="..\I\I.csproj" />
+    <ProjectReference Include="..\L\L.csproj" />
+    <ProjectReference Include="..\O\O.csproj" />
+    <ProjectReference Include="..\S\S.csproj" />
+  </ItemGroup>
 
 </Project>

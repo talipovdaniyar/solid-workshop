@@ -11,3 +11,14 @@ C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\D
 C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.dll
 C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.pdb
 C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.genruntimeconfig.cache
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\L.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\L.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\obj\Debug\netcoreapp3.1\solid-demo.csproj.CopyComplete
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\D.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\I.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\O.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\S.dll
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\D.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\I.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\O.pdb
+C:\Users\EXN427\source\repos\personal\solid-workshop\solid-demo\solid-demo\bin\Debug\netcoreapp3.1\S.pdb

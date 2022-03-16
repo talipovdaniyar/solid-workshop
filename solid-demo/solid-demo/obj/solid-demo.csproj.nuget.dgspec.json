@@ -4,6 +4,226 @@
     "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\solid-demo\\solid-demo.csproj": {}
   },
   "projects": {
+    "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\D\\D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\D\\D.csproj",
+        "projectName": "D",
+        "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\D\\D.csproj",
+        "packagesPath": "C:\\Users\\EXN427\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EXN427\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/INFRABEL/i-ict-213/_packaging/bcs-sharedmodule-feed-nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\I\\I.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\I\\I.csproj",
+        "projectName": "I",
+        "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\I\\I.csproj",
+        "packagesPath": "C:\\Users\\EXN427\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\I\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EXN427\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/INFRABEL/i-ict-213/_packaging/bcs-sharedmodule-feed-nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\L\\L.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\L\\L.csproj",
+        "projectName": "L",
+        "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\L\\L.csproj",
+        "packagesPath": "C:\\Users\\EXN427\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\L\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EXN427\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/INFRABEL/i-ict-213/_packaging/bcs-sharedmodule-feed-nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\O\\O.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\O\\O.csproj",
+        "projectName": "O",
+        "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\O\\O.csproj",
+        "packagesPath": "C:\\Users\\EXN427\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\O\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EXN427\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/INFRABEL/i-ict-213/_packaging/bcs-sharedmodule-feed-nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\solid-demo\\solid-demo.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +232,77 @@
         "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\solid-demo\\solid-demo.csproj",
         "packagesPath": "C:\\Users\\EXN427\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\solid-demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EXN427\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/INFRABEL/i-ict-213/_packaging/bcs-sharedmodule-feed-nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\D\\D.csproj": {
+                "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\D\\D.csproj"
+              },
+              "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\I\\I.csproj": {
+                "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\I\\I.csproj"
+              },
+              "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\L\\L.csproj": {
+                "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\L\\L.csproj"
+              },
+              "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\O\\O.csproj": {
+                "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\O\\O.csproj"
+              },
+              "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\S\\S.csproj": {
+                "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\S\\S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\S\\S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\S\\S.csproj",
+        "projectName": "S",
+        "projectPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\S\\S.csproj",
+        "packagesPath": "C:\\Users\\EXN427\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EXN427\\source\\repos\\personal\\solid-workshop\\solid-demo\\S\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EXN427\\AppData\\Roaming\\NuGet\\NuGet.Config",
